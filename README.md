@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ashish-mahato-4459b8162" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ashish-mahato-4459b8162" height="30" width="40" /></a>
 <a href="https://instagram.com/ashishmahato00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="ashishmahato00" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/youknow___" target="blank"><img align="center" src="https://www.bing.com/images/search?view=detailV2&ccid=MZlO5kI4&id=92104C27AE5B8A9274A28F6274FBD942D0A836BE&thid=OIP.MZlO5kI4BIOrIDoyfZe6egHaIL&mediaurl=https%3A%2F%2F1.bp.blogspot.com%2F-ULT9oDhqr24%2FXJYCrttOEpI%2FAAAAAAAAJYE%2FinXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw%2Fs1600%2Flogo%2Bhackerrank%2Bicon.png&exph=1596&expw=1446&q=hackerrank.svg&simid=608033898804770989&ck=CBB966A7C7A86FCAAE8A56F6ACFA5CD4&selectedindex=0&form=EX0023&adlt=demote&shtp=GetUrl&shid=780663af-ae0d-4e2b-8548-2ca7614513a4&shtk=ZG93bmxvYWQgbG9nbyBoYWNrZXJyYW5rIGljb24gc3ZnIGVwcyBwbmcgcHNkIGFpIHZlY3RvciBjb2xvciBmcmVlIC0gZWwgLi4u&shdk=Rm91bmQgb24gQmluZyBmcm9tIHd3dy5lbGhhcnJha2ZvbnRzLmNvbQ%3D%3D&shhk=X8bHiQVn%2BlTz4dgtstHqzJzSTRl8%2BHNYJlTohPnEgVY%3D&shth=OSH.OFkcA8rEAHZJN4FdnFZAMg" alt="youknow___" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/youknow___" target="blank"><img align="center" src="https://brandeps.com/icon-download/H/Hackerrank-icon-vector-02.svg" alt="youknow___" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
