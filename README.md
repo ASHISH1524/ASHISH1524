@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **raynavin5@gmail.com**
 
-- 📄 Know about my experiences [https://my.indeed.com/p/hj6erq3](https://my.indeed.com/p/hj6erq3)
+- 📄 Know about my experiences https://drive.google.com/file/d/1NOPeERDNHdwHC9QMg1jhNz6a9aQaeLUy/view?usp=sharing
 
 - ⚡ Fun fact **Fitness Freak**
 
