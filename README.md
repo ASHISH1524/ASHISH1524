@@ -1,15 +1,14 @@
 # Hi there, I'm [Ashish Mahato](https://www.linkedin.com/in/ashish-mahato1524/) 👋
 
-## Software Development Engineer in Test (SDET) | Test Automation Architect 💻
+## Software Development Engineer in Test (SDET) 💻
 
-I'm a seasoned SDET with **5 years of experience** specializing in building scalable test automation frameworks and implementing AI-driven testing strategies. Currently seeking new opportunities to drive quality excellence in innovative organizations.
+I am a passionate **5 years of experience** specializing in building scalable test automation frameworks and implementing AI-driven testing strategies. Currently seeking new opportunities to drive quality excellence in innovative organizations.
 
 ### 🚀 About Me
 
 - 🔭 **Currently Working On:** AI-driven testing solutions and advanced test automation frameworks using Java, Selenium, and REST-Assured
 - 🌱 **Currently Learning:** ISTQB CT-AI Certification, JMeter for Performance Testing, and Model Context Protocol (MCP)
 - 💡 **Expertise:** End-to-end test automation, API testing, CI/CD integration, and shift-left testing methodologies
-- 📈 **Track Record:** Achieved 98% regression suite stability and 40% improvement in system validation efficiency
 - 🎯 **Passionate About:** Leveraging AI and automation to transform quality assurance processes
 
 ### 💼 Professional Highlights
