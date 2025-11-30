@@ -1,32 +1,107 @@
-<h1 align="center">Hi 👋, I'm Ashish Mahato</h1>
-<h3 align="center">Always ready take a challenging and high performance oriented role in the field of Computer engineering and implement the expertise and experience gained in this field to develop advanced projects with efficiency and quality.</h3>
+# Hi there, I'm [Ashish Mahato](https://www.linkedin.com/in/ashish-mahato1524/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish1524&label=Profile%20views&color=0e75b6&style=flat" alt="ashish1524" /> </p>
+## Software Development Engineer in Test (SDET) | Test Automation Architect 💻
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish1524" alt="ashish1524" /></a> </p>
+I'm a seasoned SDET with **5 years of experience** specializing in building scalable test automation frameworks and implementing AI-driven testing strategies. Currently seeking new opportunities to drive quality excellence in innovative organizations.
 
-- 🌱 I’m currently learning **JavaScript**
+### 🚀 About Me
 
-- 💬 Ask me about **Selenium,Java,SQL,Automation Testing,Robotics Process Automation,Data Structures**
+- 🔭 **Currently Working On:** AI-driven testing solutions and advanced test automation frameworks using Java, Selenium, and REST-Assured
+- 🌱 **Currently Learning:** ISTQB CT-AI Certification, JMeter for Performance Testing, and Model Context Protocol (MCP)
+- 💡 **Expertise:** End-to-end test automation, API testing, CI/CD integration, and shift-left testing methodologies
+- 📈 **Track Record:** Achieved 98% regression suite stability and 40% improvement in system validation efficiency
+- 🎯 **Passionate About:** Leveraging AI and automation to transform quality assurance processes
 
-- 📫 How to reach me **raynavin5@gmail.com**
+### 💼 Professional Highlights
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1NOPeERDNHdwHC9QMg1jhNz6a9aQaeLUy/view?usp=sharing
+**Veeva Systems** | Software Engineer - Test Automation *(Nov 2022 - Present)*
+- Designed comprehensive UI and API automation frameworks achieving >90% test coverage
+- Implemented data-driven and keyword-driven BDD frameworks using Cucumber with 50+ reusable step definitions
+- Elevated daily regression stability to 98% through proactive monitoring using Kibana/ElasticSearch in AWS environments
+- Led shift-left testing initiatives with early API contract validation using Postman
+- Mentored junior engineers and introduced AI-driven testing methodologies
 
-- ⚡ Fun fact **Fitness Freak**
+**Cognizant Technology Solutions** | Test Engineer *(Aug 2020 – Oct 2022)*
+- Created and maintained comprehensive test cases in ALM, reducing test planning time
+- Improved offshore support ticket efficiency by 25% through dedicated ALM admin-level support
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashish-mahato-4459b8162" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ashish-mahato-4459b8162" height="30" width="40" /></a>
-<a href="https://instagram.com/ashishmahato00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="ashishmahato00" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/youknow___" target="blank"><img align="center" src="https://brandeps.com/icon-download/H/Hackerrank-icon-vector-02.svg" alt="youknow___" height="30" width="40" /></a>
-</p>
+### 🔧 Technical Arsenal
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+**Languages & Databases:**  
+`Java` `Python` `MySQL`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish1524&show_icons=true&locale=en&layout=compact" alt="ashish1524" /></p>
+**Automation Frameworks & Tools:**  
+`Selenium WebDriver` `TestNG` `REST-Assured` `Postman` `Cucumber BDD` `WebDriverIO`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish1524&show_icons=true&locale=en" alt="ashish1524" /></p>
+**Framework Design:**  
+`Page Object Model` `Data-Driven Framework` `Keyword-Driven Framework` `BDD` `Clean Code` `SOLID Principles`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish1524&" alt="ashish1524" /></p>
+**CI/CD & DevOps:**  
+`Jenkins` `Maven` `Git` `GitLab` `GitHub Actions` `AWS`
+
+**Testing Tools:**  
+`BrowserStack` `LambdaTest` `JMeter` `Kibana` `ElasticSearch`
+
+**Project Management:**  
+`Jira` `ServiceNow` `TestRail` `Swagger` `Confluence`
+
+**AI & Emerging Tech:**  
+`GitHub Copilot` `Prompt Engineering` `Gemini Gems` `Model Context Protocol`
+
+### 🎯 Featured Projects
+
+#### 🔹 [Enterprise Test Automation Framework](https://github.com/ASHISH1524)
+A robust, scalable automation framework built with Java, Selenium, and TestNG featuring:
+- Page Object Model with modular design
+- Data-driven testing capabilities using Apache POI
+- Comprehensive reporting with ExtentReports
+- CI/CD integration with Jenkins
+- 40% improvement in test execution efficiency
+
+#### 🔹 [API Testing Framework - REST-Assured](https://github.com/ASHISH1524)
+Complete API automation solution featuring:
+- RESTful API testing with JSON/XML validation
+- OAuth 2.0 authentication handling
+- Request/Response serialization and deserialization
+- Integration with CI/CD pipelines
+- Complex SQL validation for backend data integrity
+
+#### 🔹 [BDD Cucumber Framework](https://github.com/ASHISH1524)
+Behavior-driven development framework with:
+- Gherkin syntax for business-readable test scenarios
+- 50+ reusable step definitions
+- Parallel execution capabilities
+- Cross-browser testing support
+- Detailed HTML reports
+
+### 🏆 Achievements & Certifications
+
+🥇 **Best Automation Team Award** - Successfully delivered 100% test coverage automation suite within sprint timeline
+
+📜 **Certifications:**
+- Selenium WebDriver with Java - Basics to Advanced + Frameworks (Udemy)
+- GenAI Tools and AI Agents for Software Testing (Udemy)
+- ISTQB Certified Tester - Artificial Intelligence (CT-AI) *(In Progress)*
+
+### 📊 GitHub Stats
+
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASHISH1524&show_icons=true&theme=radical)
+
+### 💬 Let's Connect!
+
+I'm actively seeking new opportunities where I can leverage my expertise in test automation, AI-driven testing, and quality engineering to drive impactful results. Whether you're looking for an SDET to elevate your QA processes or want to collaborate on innovative testing solutions, I'd love to connect!
+
+- 📧 Email: [mahato.ashish.we@gmail.com](mailto:mahato.ashish.we@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ashish-mahato1524](https://www.linkedin.com/in/ashish-mahato1524/)
+- 📍 Location: Hyderabad, Telangana, India
+- 📱 Phone: +91-9915507348
+
+### ⚡ Fun Fact
+
+When I'm not automating tests or exploring AI-driven quality solutions, you'll find me staying fit at the gym - because a healthy body fuels a sharp mind! 💪
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ASHISH1524&color=blueviolet)
+
+**"Quality is not an act, it is a habit."** - Aristotle
